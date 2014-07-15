@@ -1,5 +1,5 @@
 .CodeMirror .CodeMirror-scroll {
-    background-color: #323232;
+    background-color: #2c2c2c;
     color: #E6E1DC;
 }
 
@@ -13,8 +13,8 @@
 }
 
 .CodeMirror .CodeMirror-matchingbracket {
-    color: black;
-    background-color: #dedede;
+    color: #ff4500 !important;
+    background-color: rgba(15, 15, 15, 0.31);
 }
 
 .CodeMirror .CodeMirror-linebackground {
@@ -31,11 +31,22 @@
 }
 
 .CodeMirror .cm-matchhighlight {
-    background-color: yellow;
+    background-color: orange;
 }
 
-.CodeMirror .CodeMirror-selectedtext {
-    background-color: #3D4456 !important;
+.CodeMirror-focused .CodeMirror-selected {
+  background: #555555;
+}
+
+.CodeMirror .CodeMirror-selected {
+  background: #444444;
+}
+
+.CodeMirror-cursors {
+  z-index: 3;
+}
+.CodeMirror-cursors .CodeMirror-cursor {
+  border-left: 1px solid #c5c8c6 !important;
 }
 
 .CodeMirror .cm-atom { color: #E0E2E4; }
