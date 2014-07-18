@@ -12,6 +12,8 @@
     "engines": {
         "brackets": ">=0.42.0"
     },
-    "theme": "railcasts.css",
+    "theme": {
+        "file": "railcasts.css"
+    },
     "screenshot": "railcasts_php.png"
 }
