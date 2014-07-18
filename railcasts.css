@@ -17,6 +17,10 @@
     background-color: rgba(15, 15, 15, 0.31);
 }
 
+.CodeMirror .CodeMirror-nonmatchingbracket { 
+    color: #ff4500 !important; 
+}
+
 .CodeMirror .CodeMirror-linebackground {
     outline: 1px solid #232323;
 }
