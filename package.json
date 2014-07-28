@@ -1,8 +1,8 @@
 {
     "title": "Railcasts",
     "name": "railcasts-theme",
-    "description": "Railcasts Theme for Brackets. ** Note this theme will not be installable until Brackets sprint 42 is released with the core themes feature",
-    "version": "1.0.4",
+    "description": "Railcasts Theme for Brackets.",
+    "version": "1.0.5",
     "author": "Andrew MacKenzie <a.mackenzie@gmail.com> (http://github.com/mackenza)",
     "homepage": "https://github.com/Brackets-Themes/Railcasts",
     "repository": {
