@@ -1,4 +1,4 @@
-Railcasts Theme for Brackets
+![Brackets Themes Logo](https://github.com/brackets-themes/railcasts/raw/master/bracket-themes-icon-100x99.png) Railcasts Theme for Brackets
 =========
 
 Dark theme for Brackets
