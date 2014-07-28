@@ -80,17 +80,6 @@
 .cm-minus { color: #bc322f; }
 .cm-quote { color: #CC7833; }
 
-/* Inline editor styling */
-
-.related-container .selection:before {
-    border-top: 9px solid transparent;
-    border-bottom: 9px solid transparent;
-}
-
-.inline-widget .CodeMirror, .inline-widget .CodeMirror-gutters {
-    background: transparent;
-}
-
 /* Non-editor styling */
 
 #image-holder,
